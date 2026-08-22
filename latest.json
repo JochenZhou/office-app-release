@@ -1,6 +1,6 @@
 {
-  "version": "v1.8.1",
+  "version": "v1.8.2",
   "date": "2026-08-22",
-  "apkUrl": "https://raw.githubusercontent.com/JochenZhou/office-app-release/main/app-debug.apk",
-  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.8.0...v1.8.1 "
+  "apkUrl": "https://raw.githubusercontent.com/JochenZhou/office-app-release/main/app-release.apk",
+  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.8.1...v1.8.2 "
 }
