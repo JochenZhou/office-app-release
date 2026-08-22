@@ -1,6 +1,7 @@
 {
   "version": "v1.9.0",
   "date": "2026-08-22",
-  "apkUrl": "https://gitee.com/pickcode/office-app-release/raw/main/app-release.apk",
-  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.8.2...v1.9.0 "
+  "apkUrl": "https://mirror.enmy.workers.dev/https://raw.githubusercontent.com/JochenZhou/office-app-release/main/app-release.apk",
+  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.8.2...v1.9.0 ",
+  "apkUrlBackup": "https://raw.githubusercontent.com/JochenZhou/office-app-release/main/app-release.apk"
 }
