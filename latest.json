@@ -1,9 +1,9 @@
 {
-  "version": "v1.31.0",
+  "version": "v1.32.0",
   "date": "2026-08-26",
-  "apkUrl": "https://ghfast.top/https://raw.githubusercontent.com/JochenZhou/office-app-release/main/office-app-v1.31.0.apk",
-  "apkUrlBackup": "https://raw.githubusercontent.com/JochenZhou/office-app-release/main/office-app-v1.31.0.apk",
-  "apkSize": 41127217,
-  "apkSha256": "55d247cb6bb4c2d7265a6eaefe5e06ca87002442cab6383a1c46cfdeaef8e8de",
-  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.30.0...v1.31.0 "
+  "apkUrl": "https://ghfast.top/https://raw.githubusercontent.com/JochenZhou/office-app-release/main/office-app-v1.32.0.apk",
+  "apkUrlBackup": "https://raw.githubusercontent.com/JochenZhou/office-app-release/main/office-app-v1.32.0.apk",
+  "apkSize": 41127609,
+  "apkSha256": "ce9483d6c7b835000ee67e9b320b43b8c952906942888b4919e4207421a7c7e4",
+  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.31.0...v1.32.0 "
 }
