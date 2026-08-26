@@ -1,0 +1,355 @@
+{
+  "items": [
+    {
+      "id": "118-1",
+      "name": "海盾118 218 C1-C6故障.png",
+      "file": "files/118-1.png",
+      "type": "image",
+      "group": "118",
+      "size": 19305,
+      "sha256": "e8194fd3732aa05f703b426288cdce7fd1d14969434a26c4acb5b6de33c7668a"
+    },
+    {
+      "id": "118-2",
+      "name": "海盾HD-118-运行代码.pdf",
+      "file": "files/118-2.pdf",
+      "type": "pdf",
+      "group": "118",
+      "size": 335519,
+      "sha256": "3ca5ad4b9385cffb5c31e984bd5151c6a85f36941d4def04ed98e23d09820ca4"
+    },
+    {
+      "id": "218-1",
+      "name": "218plus参数设置.png",
+      "file": "files/218-1.png",
+      "type": "image",
+      "group": "218",
+      "size": 8345,
+      "sha256": "d88f968cf15ffebe0bda29e92df40e90f8bbf3232419b423ce2aefb2e5151e10"
+    },
+    {
+      "id": "218-2",
+      "name": "海盾118 218 C1-C6故障.png",
+      "file": "files/218-2.png",
+      "type": "image",
+      "group": "218",
+      "size": 19305,
+      "sha256": "e8194fd3732aa05f703b426288cdce7fd1d14969434a26c4acb5b6de33c7668a"
+    },
+    {
+      "id": "218-3",
+      "name": "海盾218双出水接线图.pdf",
+      "file": "files/218-3.pdf",
+      "type": "pdf",
+      "group": "218",
+      "size": 588107,
+      "sha256": "e60856c47833dd42a65b1926957de2afeeeab18dcb78cdfa4c60543a258d92d9"
+    },
+    {
+      "id": "218-4",
+      "name": "海盾HD-218-运行代码.pdf",
+      "file": "files/218-4.pdf",
+      "type": "pdf",
+      "group": "218",
+      "size": 346039,
+      "sha256": "ad5a7ec2b13672e24ac1aa13ba1beef32a771d8e3557b12e6e909563ada6ca5f"
+    },
+    {
+      "id": "309-1",
+      "name": "水控机309-运行代码.pdf",
+      "file": "files/309-1.pdf",
+      "type": "pdf",
+      "group": "309",
+      "size": 222906,
+      "sha256": "34142c1a18b10d346c1f85ae8d2d51e06df88f570fcb6724ee7a2d09eb53d22a"
+    },
+    {
+      "id": "518-1",
+      "name": "518双路接口图.pdf",
+      "file": "files/518-1.pdf",
+      "type": "pdf",
+      "group": "518",
+      "size": 663733,
+      "sha256": "339da137b2a17ae9b2cd5adc5af951bef566529f4d0ea7a01dfb2381910e59a1"
+    },
+    {
+      "id": "520-1",
+      "name": "520产品说明.pdf",
+      "file": "files/520-1.pdf",
+      "type": "pdf",
+      "group": "520",
+      "size": 3119413,
+      "sha256": "d3a61d57014c0f67ff9ca19ac342377069b98a79fa5cfd81dc787ea1ad2d70c8"
+    },
+    {
+      "id": "525-1",
+      "name": "HK525单级.pdf",
+      "file": "files/525-1.pdf",
+      "type": "pdf",
+      "group": "525",
+      "size": 180424,
+      "sha256": "1a590196d9e0df1ef18f5f15904c99892d5cef2e78a5ea6b4fb28c3d6b4af3a8"
+    },
+    {
+      "id": "525-2",
+      "name": "HK525双级.pdf",
+      "file": "files/525-2.pdf",
+      "type": "pdf",
+      "group": "525",
+      "size": 210418,
+      "sha256": "edd2f2965ccb17017a58635def04ce936e00b4450389b655a3541e4d4a5d81bb"
+    },
+    {
+      "id": "708-1",
+      "name": "售水板708-运行代码 - 191019.pdf",
+      "file": "files/708-1.pdf",
+      "type": "pdf",
+      "group": "708",
+      "size": 258560,
+      "sha256": "a662087a79f3a1a3aeecefc2a6994474e7440a3f58640dbec4b5b17058f8cab4"
+    },
+    {
+      "id": "716-1",
+      "name": "售液板716-运行代码.pdf",
+      "file": "files/716-1.pdf",
+      "type": "pdf",
+      "group": "716",
+      "size": 266495,
+      "sha256": "9e72b457ac393fff0f57572eb38e40e03611387a3cdc65908380a8d60ac23738"
+    },
+    {
+      "id": "717-1",
+      "name": "售液板717-运行代码.pdf",
+      "file": "files/717-1.pdf",
+      "type": "pdf",
+      "group": "717",
+      "size": 274002,
+      "sha256": "518404ecf40a5dd96f60ef43151f9cb9512634d35c1c9d85b2741ea76681d44c"
+    },
+    {
+      "id": "718-1",
+      "name": "单机版718-运行代码 0831.pdf",
+      "file": "files/718-1.pdf",
+      "type": "pdf",
+      "group": "718",
+      "size": 312248,
+      "sha256": "f783e0f926f60bad7d61b2894478b428cf3b8bc5b19cfeec9e4947e662954285"
+    },
+    {
+      "id": "718-2",
+      "name": "售水板718-运行代码.pdf",
+      "file": "files/718-2.pdf",
+      "type": "pdf",
+      "group": "718",
+      "size": 328648,
+      "sha256": "f055cb279ef0ef6c8d91bc195cff0cf1862347b6a4b1658914658453d814316d"
+    },
+    {
+      "id": "718-3",
+      "name": "宏卡718尺寸图.pdf",
+      "file": "files/718-3.pdf",
+      "type": "pdf",
+      "group": "718",
+      "size": 34158,
+      "sha256": "a8166940c8ab92f04e739b2d61ce01fbb1000840d19ffe522b35c769a236191d"
+    },
+    {
+      "id": "718-4",
+      "name": "老后台718-运行代码 .pdf",
+      "file": "files/718-4.pdf",
+      "type": "pdf",
+      "group": "718",
+      "size": 320659,
+      "sha256": "2fedf2a3345622ed4a62b7f9e96ba3b5497f54d2fadde6ae5bcf5b0462c2dcff"
+    },
+    {
+      "id": "719-1",
+      "name": "719代码表.png",
+      "file": "files/719-1.png",
+      "type": "image",
+      "group": "719",
+      "size": 684867,
+      "sha256": "08ba4e13b6ce10655a74ff99409807c2c01fc185449c7634a9beec04fe077324"
+    },
+    {
+      "id": "719-2",
+      "name": "售水板719-运行代码.pdf",
+      "file": "files/719-2.pdf",
+      "type": "pdf",
+      "group": "719",
+      "size": 247309,
+      "sha256": "43a3cd04ef73dd9a3aabb83f1c5c397e2617329d22a4c024f90a35fe4bced5ee"
+    },
+    {
+      "id": "719-3",
+      "name": "宏卡719尺寸图.pdf",
+      "file": "files/719-3.pdf",
+      "type": "pdf",
+      "group": "719",
+      "size": 34158,
+      "sha256": "a8166940c8ab92f04e739b2d61ce01fbb1000840d19ffe522b35c769a236191d"
+    },
+    {
+      "id": "730-1",
+      "name": "售水板730-运行代码.pdf",
+      "file": "files/730-1.pdf",
+      "type": "pdf",
+      "group": "730",
+      "size": 262383,
+      "sha256": "5795cb18707e98fc88c6b820e6a5f316d953c6ba7af7f50207d34d6273eef07b"
+    },
+    {
+      "id": "735-1",
+      "name": "735(T）特殊操作.pdf",
+      "file": "files/735-1.pdf",
+      "type": "pdf",
+      "group": "735",
+      "size": 100688,
+      "sha256": "fc31fb117c270f970e7dedf58404630d3524e070aaa1565bff11cee2f5f1d939"
+    },
+    {
+      "id": "735-2",
+      "name": "售水板735-运行代码.pdf",
+      "file": "files/735-2.pdf",
+      "type": "pdf",
+      "group": "735",
+      "size": 282193,
+      "sha256": "e8952b42b324409bc69cc95121fedb254fc73703dc882b8f75d5ac53cb406045"
+    },
+    {
+      "id": "739-1",
+      "name": "售水板739s&739h-运行代码.pdf",
+      "file": "files/739-1.pdf",
+      "type": "pdf",
+      "group": "739",
+      "size": 123355,
+      "sha256": "4c4eae7da81c08fa65e91fc602010bc300157e83f27fcef2ab651f9a4b9e72ce"
+    },
+    {
+      "id": "739-2",
+      "name": "售水板739z-运行代码.pdf",
+      "file": "files/739-2.pdf",
+      "type": "pdf",
+      "group": "739",
+      "size": 268779,
+      "sha256": "06f28b4df609b9336e76d621b21f0e5c59ae0e12ccc9477ba9b2efab2e67f335"
+    },
+    {
+      "id": "818-1",
+      "name": "售水板818单出水-运行代码1218.pdf",
+      "file": "files/818-1.pdf",
+      "type": "pdf",
+      "group": "818",
+      "size": 261551,
+      "sha256": "e04fefbd1c18a596e72521c5a5f511dd98bc9420b3facf3e341f6fd4fe9e4d20"
+    },
+    {
+      "id": "828-1",
+      "name": "828plus参数设置.png",
+      "file": "files/828-1.png",
+      "type": "image",
+      "group": "828",
+      "size": 7279,
+      "sha256": "6a1176b0129050b12fb92c446f24e5213373bfd37a1d5103d818733e5612099c"
+    },
+    {
+      "id": "828-2",
+      "name": "售水板828双出水-运行代码.pdf",
+      "file": "files/828-2.pdf",
+      "type": "pdf",
+      "group": "828",
+      "size": 329635,
+      "sha256": "38e8f57361cd1209f4adcdbb5cef58999381a898ff69cef6ae4cc8184011c0a0"
+    },
+    {
+      "id": "829-1",
+      "name": "829售酒双路接线图 0602.png",
+      "file": "files/829-1.png",
+      "type": "image",
+      "group": "829",
+      "size": 970233,
+      "sha256": "58829e7c5d9049c6c07cc127b66351f2fd0bb24ac4a931ed9d4186b446fe60bb"
+    },
+    {
+      "id": "829-2",
+      "name": "829售酒双路接线图计重.png",
+      "file": "files/829-2.png",
+      "type": "image",
+      "group": "829",
+      "size": 953165,
+      "sha256": "771af2f495ce4498cdccf7806920ffadc3cf2ff69bc0148f75421084b0f47204"
+    },
+    {
+      "id": "829-3",
+      "name": "Water Vending Machine 829P Dual Outlet - Standalone Edition - Operation Code Manual.pdf",
+      "file": "files/829-3.pdf",
+      "type": "pdf",
+      "group": "829",
+      "size": 145638,
+      "sha256": "0ea667b52415817374b8b6537a780dedc920992c01e78ffd3ca9b72e6cc60eb3"
+    },
+    {
+      "id": "829-4",
+      "name": "售水板829P双出水-外贸单机版-运行代码手册.pdf",
+      "file": "files/829-4.pdf",
+      "type": "pdf",
+      "group": "829",
+      "size": 292792,
+      "sha256": "dbbde6540fc9287c1fe5002e8c12989202f37e6d577bc6d2df3e0f9f59aca8b0"
+    },
+    {
+      "id": "829-5",
+      "name": "售水板829双出水-单机版-运行代码.pdf",
+      "file": "files/829-5.pdf",
+      "type": "pdf",
+      "group": "829",
+      "size": 267934,
+      "sha256": "bf47d0bf982c6da0546bf6d7e7c696bb55a4ed5fb2674e81b639e7d493c51c47"
+    },
+    {
+      "id": "829-6",
+      "name": "售水板829双出水-运行代码.pdf",
+      "file": "files/829-6.pdf",
+      "type": "pdf",
+      "group": "829",
+      "size": 280287,
+      "sha256": "b111e24d62a1de963e202d142f3400d1aff340d86ff553fbf7ea212dc6576b9c"
+    },
+    {
+      "id": "829-7",
+      "name": "纸币机设置和接线图.pdf",
+      "file": "files/829-7.pdf",
+      "type": "pdf",
+      "group": "829",
+      "size": 337972,
+      "sha256": "de227d9a59b1eda79e1bb875cb2dc9ad58850786366c49576fd78eb375dbaf29"
+    },
+    {
+      "id": "misc-1",
+      "name": "升级异常处理.pdf",
+      "file": "files/misc-1.pdf",
+      "type": "pdf",
+      "group": "misc",
+      "size": 91359,
+      "sha256": "7ace55f00160f7df559e30f983aaf27638d717a4a5ba3161596592adc7dd61c8"
+    },
+    {
+      "id": "misc-2",
+      "name": "售液机指示灯.png",
+      "file": "files/misc-2.png",
+      "type": "image",
+      "group": "misc",
+      "size": 84280,
+      "sha256": "884aff231de7349cc82860c8158fe277a0212ade4032460c976481d3759dcf3b"
+    },
+    {
+      "id": "misc-3",
+      "name": "宏卡双路售水机主板带灯副屏尺寸图.pdf",
+      "file": "files/misc-3.pdf",
+      "type": "pdf",
+      "group": "misc",
+      "size": 26179,
+      "sha256": "0d372d4583d66dc2a205f31e96a404525d912080a16199830e1b46b00dc0882c"
+    }
+  ]
+}
