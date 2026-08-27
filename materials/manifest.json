@@ -78,8 +78,17 @@
       "file": "files/520/520产品说明.pdf",
       "type": "pdf",
       "group": "520",
-      "size": 3119413,
-      "sha256": "d3a61d57014c0f67ff9ca19ac342377069b98a79fa5cfd81dc787ea1ad2d70c8"
+      "size": 4708228,
+      "sha256": "64cdf8a606aed458b067f4f8c82f80ea2f6446ea876366984e50b19c96411511"
+    },
+    {
+      "id": "520-2",
+      "name": "520英文产品说明.pdf",
+      "file": "files/520/520英文产品说明.pdf",
+      "type": "pdf",
+      "group": "520",
+      "size": 2940940,
+      "sha256": "5a1db04bfc4abfff9a216b7716b9d21cfc3de01c4cfc636468d55cff8ccc8b81"
     },
     {
       "id": "525-1",
@@ -107,6 +116,33 @@
       "group": "525",
       "size": 2380942,
       "sha256": "88a5ff61698c5d52a2347f4cd0ca7282df26157f88b1e616c32cbd244fa7a137"
+    },
+    {
+      "id": "525-4",
+      "name": "525单级说明.pdf",
+      "file": "files/525/525单级说明.pdf",
+      "type": "pdf",
+      "group": "525",
+      "size": 4051812,
+      "sha256": "6cbe4218378f24a5e6d8546a047839559a36a485dd16a32f00e47bf04a63bc41"
+    },
+    {
+      "id": "525-5",
+      "name": "525双级产品说明-.pdf",
+      "file": "files/525/525双级产品说明-.pdf",
+      "type": "pdf",
+      "group": "525",
+      "size": 4000820,
+      "sha256": "e09fc30b37d99762cb23dd4160271f8f10b9e6954c4967e1e8e3c8c9039ca56e"
+    },
+    {
+      "id": "525-6",
+      "name": "525超滤产品说明.pdf",
+      "file": "files/525/525超滤产品说明.pdf",
+      "type": "pdf",
+      "group": "525",
+      "size": 3338027,
+      "sha256": "73cab485355464dc87835daad955cabb7961fdfacfba818110398bdd0b161cb1"
     },
     {
       "id": "708-1",
@@ -359,6 +395,42 @@
       "group": "misc",
       "size": 26179,
       "sha256": "0d372d4583d66dc2a205f31e96a404525d912080a16199830e1b46b00dc0882c"
+    },
+    {
+      "id": "misc-4",
+      "name": "APP俄文说明书（联网主板）.pdf",
+      "file": "files/其他/APP俄文说明书（联网主板）.pdf",
+      "type": "pdf",
+      "group": "misc",
+      "size": 2541724,
+      "sha256": "a2e2d290b65c024e9162bc17f4b27e3889f45cf9208f41f59d298d82bc94ffc5"
+    },
+    {
+      "id": "misc-5",
+      "name": "APP英文说明书（联网主板）.pdf",
+      "file": "files/其他/APP英文说明书（联网主板）.pdf",
+      "type": "pdf",
+      "group": "misc",
+      "size": 2586176,
+      "sha256": "3ff39bc1dbe070a0ef65bc0bcc9abd7b5f1e26ee84484147877cd82dfe35d8d7"
+    },
+    {
+      "id": "misc-6",
+      "name": "HK6688-English.pdf",
+      "file": "files/其他/HK6688-English.pdf",
+      "type": "pdf",
+      "group": "misc",
+      "size": 335204,
+      "sha256": "e4d7d9cb08ea894f98b4ed79e25ab836cf0d9d15372f18667ea15d74faabd2c4"
+    },
+    {
+      "id": "misc-7",
+      "name": "售水机说明书.pdf",
+      "file": "files/其他/售水机说明书.pdf",
+      "type": "pdf",
+      "group": "misc",
+      "size": 1983471,
+      "sha256": "8a4deafd4dba363816135263f786a6ba10ceb8ad839db1091d2aefc9f2008820"
     }
   ]
 }
