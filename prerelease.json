@@ -1,0 +1,10 @@
+{
+  "version": "v1.38.1-rc36",
+  "date": "2026-09-24",
+  "apkUrl": "https://ghfast.top/https://raw.githubusercontent.com/JochenZhou/office-app-release/main/office-app-v1.38.1-rc36.apk",
+  "apkUrlBackup": "https://raw.githubusercontent.com/JochenZhou/office-app-release/main/office-app-v1.38.1-rc36.apk",
+  "apkSize": 24735231,
+  "apkSha256": "8ee374f114674a1bacab6fd89e8038f0da2b74ce51134d4152312329ca1fca83",
+  "versionCode": 90,
+  "notes": "**Full Changelog**: https://github.com/JochenZhou/office-app/compare/v1.38.1...v1.38.1-rc36 "
+}
